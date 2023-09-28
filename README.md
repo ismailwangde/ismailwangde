@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ismail Wangde</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/machine-learning-vs-data-science-swipecart-blog-img-03-02-09-2022.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:640/1*h1dUrjhkHzMU46jW1cQjAg.gif">
 
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, AWS, DL**
