@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:640/1*h1dUrjhkHzMU46jW1cQjAg.gif">
 
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, AWS, DL**
+- 🌱 I’m currently learning **Computer Vision, Deep Learning**
 
 - 💬 Ask me about **Python, ML**
 
 - 📫 How to reach me **wangdeismail@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f198KQHuFHhjWi0AOZAfkuGWApQIwulj/view?usp=sharing](https://drive.google.com/file/d/1f198KQHuFHhjWi0AOZAfkuGWApQIwulj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QekeiFJvGTfyNmp5ESMFmUriGHLMS0mW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
