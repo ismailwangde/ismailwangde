@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **wangdeismail@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QekeiFJvGTfyNmp5ESMFmUriGHLMS0mW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11qgptStHVnY4oL_6m7CZM0q_Y1N0Kr4P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
