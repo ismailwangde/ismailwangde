@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Ismail Wangde</h1>
-<h3 align="center">A passionate Data Science Student from India</h3>
+<h3 align="center">Ddata scientist in Finance Domain</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:640/1*h1dUrjhkHzMU46jW1cQjAg.gif">
 
 
-- 🌱 I’m currently learning **Computer Vision, Deep Learning**
-
-- 💬 Ask me about **Python, ML**
+- 🌱 I’m currently learning **Stock markets and Finance to help me in my feild of work.**
 
 - 📫 How to reach me **wangdeismail@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11qgptStHVnY4oL_6m7CZM0q_Y1N0Kr4P/view?usp=sharing)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/ismailwangde)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
